@@ -27,7 +27,7 @@ const Navbar = () => {
             )}
           </button>
         </div>
-        <ul className={`${isOpen?"flex flex-col fixed left-0 right-0 bottom-0 top-14 leading-10 h-52 pl-5 bg-gray-300 pt-5 text-center cursor-pointer z-10":"hidden sm:flex text-white p-6 [&>*]:mx-5 [&>*]:cursor-pointer"}`}>
+        <ul className={`${isOpen?"flex flex-col fixed left-0 right-0 bottom-0 top-14 leading-10 h-52 pl-5 bg-gray-300 pt-5  cursor-pointer z-10":"hidden sm:flex text-white p-6 [&>*]:mx-5 [&>*]:cursor-pointer"}`}>
           <li className="hover:text-gray-400">Home</li>
           <li className="hover:text-gray-400">Projects</li>
           <li className="hover:text-gray-400">About</li>
