@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "name":"HTML 5",
+        "image":"https://cdn-icons-png.flaticon.com/512/732/732212.png"
+    },
+    {
+        "id":2,
+        "name":"CSS 3",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx6bbj0wSjIAxFEEL7_S9IMdDYVJkskFjljJqXHCUETfIb2_Di-qoihp8JD8DtIp5fUMk&usqp=CAU"
+    },
+    {
+        "id":3,
+        "name":"Javasript",
+        "image":"https://www.computerhope.com/jargon/j/javascript.png"
+    },
+    {
+        "id":4,
+        "name":"Tailwind CSS",
+        "image":"https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"
+    },
+    {
+        "id":5,
+        "name":"Boostrap",
+        "image":"https://www.drupal.org/files/project-images/bootstrap-stack.png"
+    },
+    {
+        "id":6,
+        "name":"React Js ",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+    },
+    {
+        "id":7,
+        "name":"Git",
+        "image":"https://avatars.githubusercontent.com/u/18133?s=200&v=4"
+    },
+    {
+        "id":8,
+        "name":"Node Js",
+        "image":"https://bryntum.com/wp-content/uploads/2019/03/ts.png"
+    },
+    {
+        "id":9,
+        "name":"Github",
+        "image":"https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU"
+    },
+    {
+        "id":10,
+        "name":"Typescript",
+        "image":"https://bryntum.com/wp-content/uploads/2019/03/ts.png"
+    }
+
+]
