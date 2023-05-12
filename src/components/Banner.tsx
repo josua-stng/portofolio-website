@@ -46,7 +46,7 @@ const Banner = () => {
     }
   };
   return (
-    <div className="flex-col md:flex md:flex-row justify-center items-center md:justify-between md:items-center bg-[url('/img/banner-bg.png')] h-[700px] md:h-[500px] bg-cover">
+    <div className="flex-col md:flex md:flex-row justify-center items-center md:justify-between md:items-center bg-[url('/img/banner-bg.png')] h-[700px] md:h-[550px] bg-cover overflow-hidden">
       <div className='text-slate-300 px-10 flex flex-col items-center md:block'>
         <p className="border-2 border-gray-200 rounded-lg w-max px-5 py-2 bg-[url('/img/banner-bg.png')] mt-10 md:mt-0">Welcome to my Portfolio</p>
         <h1 className="text-3xl mt-5 font-mono font-bold mb-5">
