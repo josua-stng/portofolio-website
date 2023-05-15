@@ -1,9 +1,10 @@
+import { Link } from 'react-router-dom';
 import dataProject from '../data/ProjectData.json';
 import 'animate.css';
 const Project = () => {
   const sliceProject = dataProject.slice(0, 3);
   return (
-    <div className="bg-zinc-800 text-white  animate__animated animate__fadeInDown">
+    <div className="bg-zinc-800 text-white animate__animated animate__fadeInDown">
       <div className="text-center pt-10 pb-10">
         <p className="text-xl sm:text-3xl font-mono pb-3 font-bold">Projects</p>
         <p className="px-5">
@@ -14,7 +15,9 @@ const Project = () => {
       <div className="grid md:grid-cols-2 xl:grid-cols-3 px-10 justify-center items-center gap-10 pb-5 ">
         {sliceProject.map((projects) => {
           return (
-            <div
+            <Link
+              to={`${projects.url}`}
+              target="_blank"
               key={projects.id}
               className="text-center border-2 border-gray-600 p-5 font-serif h-50 rounded-xl cursor-pointer hover:translate-y-[-10px]"
             >
@@ -24,13 +27,16 @@ const Project = () => {
                 alt="image_project"
                 className="object-cover md:object-contain  w-full mx-auto rounded-lg"
               />
-            </div>
+            </Link>
           );
         })}
       </div>
-      <p className="text-center pb-5 cursor-pointer font-mono">
+      <Link
+        to="/project"
+        className="flex pt-5 pb-5 justify-center hover:text-gray-500 w-32 mx-auto"
+      >
         View More {'>'}
-      </p>
+      </Link>
     </div>
   );
 };
