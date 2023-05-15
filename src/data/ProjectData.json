@@ -2,27 +2,33 @@
     {
         "id":1,
         "projectName":"Wibu Doc",
-        "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/wibu_doc.jpeg?alt=media&token=0d5b82e4-6cd4-45ef-b72e-a0406b20cf70"
+        "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/wibu_doc.jpeg?alt=media&token=0d5b82e4-6cd4-45ef-b72e-a0406b20cf70",
+        "url":"https://wibu-doc.netlify.app/"
     },
     {
         "id":2,
         "projectName":"Unsplash Clone",
-        "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/unsplash-clone.jpeg?alt=media&token=2e3c4a0f-d08a-4ccd-9a91-c891edbe9cf6"
+        "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/unsplash-clone.jpeg?alt=media&token=2e3c4a0f-d08a-4ccd-9a91-c891edbe9cf6",
+        "url":"https://unsplash-clone-apps.netlify.app/"
     },  {
         "id":3,
         "projectName":"Next Market",
-        "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/next_market.jpeg?alt=media&token=e9965114-3119-454c-ba78-d781efa2ee05"
+        "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/next_market.jpeg?alt=media&token=e9965114-3119-454c-ba78-d781efa2ee05",
+        "url":"https://nextmarket.netlify.app/index.html"
     },  {
         "id":4,
         "projectName":"Idmb Movie",
-        "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/idmb_movie.jpeg?alt=media&token=259c5872-5b34-4bab-abf9-32e4b9193996"
+        "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/idmb_movie.jpeg?alt=media&token=259c5872-5b34-4bab-abf9-32e4b9193996",
+        "url":"https://sharing-session-react-001.netlify.app/"
     },  {
         "id":5,
         "projectName":"Recipe App",
-        "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/recipe_app.jpeg?alt=media&token=3b332f94-c22c-4bcf-9223-a295e281b054"
+        "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/recipe_app.jpeg?alt=media&token=3b332f94-c22c-4bcf-9223-a295e281b054",
+        "url":"https://recipe-apps-clone.netlify.app/"
     },  {
         "id":6,
         "projectName":"Weather App",
-        "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/weather_app.jpeg?alt=media&token=cf3eb44b-446b-40bd-abbf-14e3ae701f1f"
+        "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/weather_app.jpeg?alt=media&token=cf3eb44b-446b-40bd-abbf-14e3ae701f1f",
+        "url":"https://indonesia-weather-app.netlify.app/"
     }
 ]
