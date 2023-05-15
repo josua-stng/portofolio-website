@@ -1,8 +1,8 @@
 import SkillsData from '../data/SkillsData.json'
-
+import 'animate.css'
 const Skills =() =>{
     return(
-        <div className="text-white m-5 rounded-lg lg:max-w-5xl md:max-w-3xl sm:max-w-xl max-w-md mx-auto">
+        <div className="text-white mt-24 mb-24 rounded-lg lg:max-w-5xl md:max-w-3xl sm:max-w-xl max-w-md mx-auto animate__animated animate__fadeInDown">
             <div className='bg-gray-800  rounded-3xl px-5'>
                 <h1 className='text-center pt-10 pb-0 text-xl sm:text-3xl font-mono font-bold'>About Skills</h1>
                 <div className='grid justify-center sm:grid-cols-2 md: md:grid-cols-3 lg:grid-cols-4 items-center gap-7 lg:gap-0 md:gap-0 p-5'>

@@ -10,7 +10,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="flex bg-black justify-between items-center font-serif z-10 sticky top-0">
+    <nav className="flex bg-black justify-between items-center font-serif z-10 sticky top-0 animate__animated animate__fadeInDown">
       <div>
         <img
           src={Logo}
