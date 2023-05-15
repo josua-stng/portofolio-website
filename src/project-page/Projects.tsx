@@ -5,8 +5,8 @@ const Project= () =>{
     return(
         <div className="bg-zinc-800 text-white mt-10">
                     <div className='text-center pt-10 pb-10'>
-                    <p className='text-3xl font-mono pb-3'>Projects</p>
-                     <p>I show you to all the big and small websites I have done so far I show you to all the big and small websites I have done so far</p>
+                    <p className='text-xl sm:text-3xl font-mono pb-3 font-bold'>Projects</p>
+                     <p className='px-5'>I show you to all the big and small websites I have done so far I show you to all the big and small websites I have done so far</p>
                     </div>
               <div className='grid md:grid-cols-2 xl:grid-cols-3 px-10 justify-center items-center gap-10 pb-5 '>
                 {sliceProject.map((projects)=>{
