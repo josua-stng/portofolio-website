@@ -27,15 +27,15 @@ const AboutMe = () => {
             <p>CSS3,Javascript,React,Tailwind CSS,and Typescript</p>
             <p>now i always continue to learn to give the best.</p>
           </div>
-          <div className="flex justify-between mt-10 font-serif items-center ">
+          <div className="flex justify-between mt-10 font-serif items-center text-sm md:text-base">
             <Link
               to="/project"
-              className="border-2 border-white p-2 rounded-lg bg-lime-800 hover:bg-lime-500 hover:text-black"
+              className=" border-2 border-white p-2 rounded-lg bg-lime-800 hover:bg-lime-500 hover:text-black"
             >
               SEE MY PROJECTS
             </Link>
             <Link
-              to="/"
+              to="/contact"
               className="border-2 border-white p-2 rounded-lg bg-green-700 hover:bg-green-500 hover:text-black"
             >
               CONTACT ME
