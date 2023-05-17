@@ -2,7 +2,12 @@ import { Link } from 'react-router-dom';
 import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
 import projectData from '../data/ProjectData.json';
+import {useEffect} from 'react'
 const AllProject = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+  
   return (
     <div>
       <Navbar />
