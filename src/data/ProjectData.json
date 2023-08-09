@@ -1,9 +1,9 @@
 [
     {
         "id":1,
-        "projectName":"Wibu Doc",
+        "projectName":"Helo Doc",
         "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/wibu_doc.jpeg?alt=media&token=0d5b82e4-6cd4-45ef-b72e-a0406b20cf70",
-        "url":"https://wibu-doc.netlify.app/"
+        "url":"https://helo-doc.netlify.app/"
     },
     {
         "id":2,
@@ -14,7 +14,7 @@
         "id":3,
         "projectName":"Next Market",
         "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/next_market.jpeg?alt=media&token=e9965114-3119-454c-ba78-d781efa2ee05",
-        "url":"https://nextmarket.netlify.app/index.html"
+        "url":"https://nextmarket.netlify.app/"
     },  {
         "id":4,
         "projectName":"Idmb Movie",
@@ -23,8 +23,8 @@
     },  {
         "id":5,
         "projectName":"Recipe App",
-        "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/recipe_app.jpeg?alt=media&token=3b332f94-c22c-4bcf-9223-a295e281b054",
-        "url":"https://recipe-apps-clone.netlify.app/"
+        "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/WhatsApp%20Image%202023-08-09%20at%2008.05.02.jpg?alt=media&token=1206549b-a10f-4409-b9e0-1516e792219a",
+        "url":"https://recipe-apps-one.vercel.app/"
     },  {
         "id":6,
         "projectName":"Weather App",

@@ -24,7 +24,7 @@ const AboutMe = () => {
           <div className="font-sans mt-5 leading-7 text-blue text-sm md:text-base">
             <p>I design and develop experiences that make people's lives</p>
             <p>simple through Web and Mobile Web.I work with HTML5 ,</p>
-            <p>CSS3,Javascript,React,Tailwind CSS,and Typescript</p>
+            <p>CSS3,Javascript,React Js,,Next Js,Tailwind CSS,and Typescript</p>
             <p>now i always continue to learn to give the best.</p>
           </div>
           <div className="flex justify-between mt-10 font-serif items-center text-sm md:text-base">

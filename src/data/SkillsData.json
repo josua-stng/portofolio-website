@@ -21,8 +21,8 @@
     },
     {
         "id":5,
-        "name":"Boostrap",
-        "image":"https://www.drupal.org/files/project-images/bootstrap-stack.png"
+        "name":"Next Js",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMnEgsjH52yx7IaLPbtV8MRzJ0UwxzDIM7myYosm-f1LRudH14VC3_3GCXPiPICFOolb4&usqp=CAU"
     },
     {
         "id":6,
@@ -37,7 +37,7 @@
     {
         "id":8,
         "name":"Node Js",
-        "image":"https://www.soat.fr/assets/images/formation/NodeJS.png"
+        "image":"https://litslink.com/wp-content/uploads/2020/12/node.js-logo-image.png"
     },
     {
         "id":9,
@@ -49,5 +49,4 @@
         "name":"Typescript",
         "image":"https://bryntum.com/wp-content/uploads/2019/03/ts.png"
     }
-
 ]
