@@ -28,7 +28,7 @@
     },  {
         "id":6,
         "projectName":"Weather App",
-        "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/weather_app.jpeg?alt=media&token=cf3eb44b-446b-40bd-abbf-14e3ae701f1f",
-        "url":"https://indonesia-weather-app.netlify.app/"
+        "image":"https://firebasestorage.googleapis.com/v0/b/fir-storage-70290.appspot.com/o/weather.jpg?alt=media&token=d77a7d02-ed2f-4c72-b671-c0546f1ccb8f",
+        "url":"https://weatherwhizz.vercel.app/"
     }
 ]
